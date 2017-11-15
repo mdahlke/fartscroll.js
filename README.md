@@ -1,5 +1,7 @@
 # fartscroll.js
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/27f0df1fefc39c378b19/maintainability)](https://codeclimate.com/github/mdahlke/fartscroll.js/maintainability)
+
 Everyone farts. And now your web pages can too.
 
 _Now with 100% less jQuery! (Sorry, jQuery, we still love you)_
